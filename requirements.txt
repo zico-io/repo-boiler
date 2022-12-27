@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+selenium==4.7.2
+selenium-wire==5.1.0
+webdriver-manager==3.8.5
+wget==3.2

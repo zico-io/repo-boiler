@@ -1,0 +1,7 @@
+{
+    "login_url": "https://bobuniversity.samcart.com/courses/login",
+    "course_url": "https://bobuniversity.samcart.com/courses/course/99b6ee5c-7985-4080-a3bd-26465252b7e0/",
+    "user": "bob@example.com",
+    "pass": "password123",
+    "n_cpu": "4"
+}
